@@ -2,7 +2,7 @@
 
 
 ## WARNING
-These assets are meant to work in a Databricks vocareum environment as of 2025-12.
+These assets are meant to work in a Databricks vocareum environment as of 19 Feb 2026.
 
 
 ## Get Started with AI Agents on Databricks
