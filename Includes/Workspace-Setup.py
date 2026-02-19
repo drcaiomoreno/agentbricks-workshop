@@ -207,8 +207,8 @@ import urllib.request
 volume_path = f"/Volumes/dbacademy/{user_schema}/product-docs"
 
 pdf_files = [
-    "https://raw.githubusercontent.com/miguelpera-db/agentbricks-workshop/main/resources/product_doc_blendmaster_elite_4000.pdf",
-    "https://raw.githubusercontent.com/miguelpera-db/agentbricks-workshop/main/resources/product_doc_brownbox_X500.md"
+    "https://raw.githubusercontent.com/drcaiomoreno/agentbricks-workshop/main/resources/product_doc_blendmaster_elite_4000.pdf",
+    "https://raw.githubusercontent.com/drcaiomoreno/agentbricks-workshop/main/resources/product_doc_brownbox_X500.md"
 ]
 
 for download_url in pdf_files:
